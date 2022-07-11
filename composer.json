@@ -1,5 +1,5 @@
 {
-    "name": "mindbox/sdk-php8",
+    "name": "ivan-grebnev/mindbox-sdk-php8",
     "description": "Mindbox SDK for PHP",
     "keywords": ["mindbox", "sdk"],
     "type": "library",
